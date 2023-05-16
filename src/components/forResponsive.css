@@ -1,0 +1,7 @@
+@media (min-width: 768px) {
+  .distance-manager {
+    margin-left: 16rem !important;
+    padding-right: 2rem;
+    /* padding-top: 1rem; */
+  }
+}

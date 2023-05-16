@@ -1,0 +1,28 @@
+.offcanvas-md {
+  width: 14rem !important;
+}
+
+.g-mail-icon {
+  font-size: 3rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.icon-indicator {
+  font-size: 2rem;
+  margin-right: 1rem;
+}
+
+.icon-mail-sent,
+.icon-send-email {
+  font-size: 1.5rem;
+  margin-right: 1rem;
+}
+
+.active li {
+  background-color: grey !important;
+}
+
+a {
+  text-decoration: none !important;
+}
